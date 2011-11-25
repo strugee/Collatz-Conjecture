@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="CollatzConjecture/CollatzConjecture.cpp">
     <Files>
-      <File FileName="CollatzConjecture/CollatzConjecture.cpp" Line="1" Column="29" />
+      <File FileName="CollatzConjecture/CollatzConjecture.cpp" Line="18" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
